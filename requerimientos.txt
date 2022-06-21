@@ -1,0 +1,60 @@
+Historias de usuario:
+
+Tu página de inicio del producto debe tener un 
+elemento header con el correspondiente id="header"
+
+Puedes ver una imagen dentro del elemento header 
+con el correspondiente id="header-img" (Un 
+logotipo sería una buena imagen aquí)
+
+Dentro del elemento #header puedes ver un elemento 
+nav con el correspondiente id="nav-bar"
+
+Puedes ver al menos tres elementos que se puede 
+hacer clic dentro del elemento nav, cada uno 
+con la clase nav-link
+
+Cuando haces clic en un botón .nav-link en el 
+elemento nav se te llevará a la sección 
+correspondiente de la página de inicio
+
+Puedes ver un vídeo de producto incrustado 
+con id="video"
+
+Tu página de inicio tiene un elemento form 
+con un id="form" correspondiente
+
+Dentro del formulario, hay un campo input 
+con id="email", donde puedes ingresar tu correo 
+electrónico
+
+El campo de entrada #email debe tener un 
+marcador de texto para que los usuarios sepan 
+para qué sirve este campo
+
+El campo de entrada #email usa validación 
+HTML5 para confirmar que el texto ingresado 
+sea una dirección de email
+
+Dentro del formulario, hay un input de tipo 
+submit (enviar) con su correspondiente 
+id="submit"
+
+Cuando haces clic en el elemento #submit, 
+el email es enviado a una página web (Utiliza 
+esta URL de pruebas: 
+https://www.freecodecamp.com/email-submit)
+
+La barra de navegación siempre debe 
+estar en la parte superior del viewport
+
+Tu página de inicio de producto debe tener 
+al menos una consulta de medios
+
+Tu página de inicio de producto debe utillizar 
+el flexbox CSS al menos una vez
+
+Completa las historias de usuario y pasa todas 
+las pruebas a continuación para completar este 
+proyecto. Dale tu propio estilo personal. 
+¡Feliz día programando!
